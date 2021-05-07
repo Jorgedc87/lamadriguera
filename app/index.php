@@ -64,8 +64,8 @@
 						<div class="main-content sec-pad">
 							<!--Logo-->
 							<header class="logo logo__header">
-								<img src="img/logo.png" alt="logo" width="80px">
-								<span>La Madriguera </span>   Store
+								<img src="img/logo.png" alt="logo" width="90px">
+								<span> La Madriguera </span>   Store
 							</header>
 							<!--/Logo-->
 							

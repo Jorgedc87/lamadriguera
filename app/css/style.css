@@ -592,7 +592,7 @@ p.tagline, .address-detail a.tagline {
   .page-right .page-inner figure figcaption {
     font-family: "Hind", sans-serif;
     font-size: 12px;
-    text-transform: capitalize;
+    text-transform: none;
     color: #8d8d8d;
     padding: 20px 0 0 0; }
   .page-left .page-inner figure a,
@@ -1328,4 +1328,8 @@ p.tagline, .address-detail a.tagline {
 .logo__header span{
   font-family: "Akrobat Bold";
   letter-spacing: -1px;
+}
+
+.logo__header img{
+  padding-right: 15px;
 }
