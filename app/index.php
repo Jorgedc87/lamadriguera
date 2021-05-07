@@ -219,7 +219,7 @@
 							<div class="row">
 								<div class="col-lg-12">
 									<h3>Nuestros productos</h3>
-									<p>Echa un vistazo a algunos de nuestros productos.</p>
+									<!-- <p>Echa un vistazo a algunos de nuestros productos.</p> -->
 									
 								</div>	
 							</div>
