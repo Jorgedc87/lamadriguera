@@ -194,7 +194,7 @@
 												<p>En La Madriguera existen infinitas posibilidades. Desde adquirir un diseño propio ya estampado en tienda, utilizar un diseño propio y aplicarlo en cualquiera de nuestros productos y prendas personalizables, hasta incluso acudir a tienda con tu propio objeto o prenda, aplicaremos la técnica adecuada para lograr el mejor resultado. Y todo en un tiempo récord.</p>
 											</div>
 											<div class="col-sm-4  col-xs-12 margin-btm-xs">
-											<img src="img/conejo.png" alt="" style="width:80px">
+											<img src="img/CONEJO.png" alt="" style="width:80px">
 												<span class="key-fact">
 													Marca
 												</span>
