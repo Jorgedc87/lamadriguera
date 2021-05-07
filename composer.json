@@ -1,0 +1,14 @@
+{
+    "name": "usuario/slim4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jorge",
+            "email": "jorgedcalderon1989@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}
